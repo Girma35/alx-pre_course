@@ -1,4 +1,5 @@
 #!/bin/bash
+<<<<<<< HEAD
 echo "ALX SCHOOL is so cool"
 <<<<<<< HEAD
 // code from the main branch
@@ -8,3 +9,6 @@ echo "ALX SCHOOL is so cool"
 ```
 
 
+=======
+echo "ALX School"
+>>>>>>> origin/update_script
