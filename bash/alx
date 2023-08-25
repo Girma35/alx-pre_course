@@ -1,3 +1,10 @@
 #!/bin/bash
 echo "ALX SCHOOL is so cool"
+<<<<<<< HEAD
+// code from the main branch
+=======
+// code from the update_script branch
+>>>>>>> update_script
+```
+
 
